@@ -66,7 +66,7 @@ export default async function PostIdRoute({ params }: PostIdRouteProps) {
   }
 
   return (
-    <div className="max-w-3xl mx-auto py-8 px-4 animate-in fade-in druation-500 relative">
+    <div className="max-w-3xl mx-auto py-8 px-4 animate-in fade-in duration-500 relative">
       <Link
         className={buttonVariants({ variant: "outline", className: "mb-4" })}
         href="/blog"

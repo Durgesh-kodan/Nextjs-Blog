@@ -14,7 +14,6 @@ export const metadata: Metadata = {
   title: "Blog | Next.js 16 Tutorial",
   description: "Read our latest articles and insights.",
   category: "Web development",
-  authors: [{ name: "Jan marshal" }],
 };
 
 export default function BlogPage() {
