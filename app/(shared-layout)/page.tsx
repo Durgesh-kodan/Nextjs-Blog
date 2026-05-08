@@ -20,7 +20,7 @@ export default function Home() {
             Welcome to My Blog
           </h1>
           <p className="text-xl text-muted-foreground leading-relaxed">
-            A simple Next.js 16 tutorial project exploring the new features and
+            A simple Next.js 16 project exploring the new features and
             best practices. Built with Convex, Tailwind CSS, and love.
           </p>
           <div className="flex items-center justify-center gap-4 pt-4">
